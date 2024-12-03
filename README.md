@@ -1,17 +1,40 @@
-<h1 align="center">Hi 👋, I'm samrat poudel</h1>
-<h3 align="center">A passionate Backend developer from Nepal</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samratpoudel444&label=Profile%20views&color=0e75b6&style=flat" alt="samratpoudel444" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samratpoudel444" alt="samratpoudel444" /></a> </p>
+<p align="left">My name is samrat and I'm a Backend developer from Nepal</p>
 
-- 👨‍💻 All of my projects are available at [samratpoudel.com.np](samratpoudel.com.np)
+###
 
-- 💬 Ask me about **node**
+<h2 align="left">About me</h2>
 
-- 📫 How to reach me **poudelsamrat444@gmail.com**
+###
 
-- ⚡ Fun fact **I am passionate about football and cricket.**
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning.<br>🎲 Fun fact: Passionate about football and cricket.</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
