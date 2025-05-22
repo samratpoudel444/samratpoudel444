@@ -64,7 +64,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samratpoudel444&show_icons=true&locale=en&layout=compact" alt="samratpoudel444" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samratpoudel444&show_icons=true&locale=en" alt="samratpoudel444" /></p>
